@@ -1,0 +1,42 @@
+{
+  "id": "/pasar-malam-sort/",
+  "name": "Pasar Malam Sort",
+  "short_name": "Pasar Malam",
+  "description": "Pasar Malam Sort by Zaib: a calm sorting puzzle at a cosy Malaysian night market. Move satay, kuih, ais kacang and more between the stalls, put three of a kind together to sell them and clear every stall. 60 levels in the Pasar Malam, Lantern Walk and Ramadan Bazaar, with free undo and hints. Free and kid friendly.",
+  "lang": "en",
+  "start_url": "/pasar-malam-sort/?source=pwa",
+  "scope": "/pasar-malam-sort/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2a1458",
+  "background_color": "#2a1458",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/pasar-malam-sort/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pasar-malam-sort/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pasar-malam-sort/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pasar-malam-sort/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
